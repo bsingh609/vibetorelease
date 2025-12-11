@@ -1,0 +1,10 @@
+export { default as Header } from './Header';
+export { default as Footer } from './Footer';
+export { default as Hero } from './Hero';
+export { default as Problem } from './Problem';
+export { default as Stats } from './Stats';
+export { default as Solution } from './Solution';
+export { default as Proof } from './Proof';
+export { default as Different } from './Different';
+export { default as FAQ } from './FAQ';
+export { default as FinalCTA } from './FinalCTA';
